@@ -1,1 +1,1 @@
-# Finance-Tracker
+"This is the finance tracker app of Dongchul Lee"
